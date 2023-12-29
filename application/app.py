@@ -27,8 +27,8 @@ def transform_text(text):
     return " ".join(text)
 
 def predict(input_sms):
-    tfidf = pd.read_pickle('vectorizer.pkl')
-    model = pd.read_pickle('model.pkl')
+    tfidf = pd.read_pickle('application/vectorizer.pkl')
+    model = pd.read_pickle('application/model.pkl')
 
     # 1. preprocess
     transformed_sms = transform_text(input_sms)
