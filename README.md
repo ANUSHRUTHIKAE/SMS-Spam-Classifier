@@ -15,4 +15,5 @@ nltk.download('stopwords')
 step4: Run application
 python application/app.py
 
-<video src='Demo SMS Spam Classifier.mov' width=180/>
+[Watch the video on Google Drive](https://drive.google.com/file/d/1h0T8SZJpvt4ERPZZoW6vF1w56ZY-FJ5e/view?usp=sharing)
+
