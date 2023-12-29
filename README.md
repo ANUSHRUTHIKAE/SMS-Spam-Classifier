@@ -1,4 +1,4 @@
-
+<video src='Demo SMS Spam Classifier.mov' width=180/>
 
 To run the project:
 
