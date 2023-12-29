@@ -1,5 +1,3 @@
-<video src='Demo SMS Spam Classifier.mov' width=180/>
-
 To run the project:
 
 step 1: Download the project
@@ -16,3 +14,5 @@ nltk.download('stopwords')
 
 step4: Run application
 python application/app.py
+
+<video src='Demo SMS Spam Classifier.mov' width=180/>
