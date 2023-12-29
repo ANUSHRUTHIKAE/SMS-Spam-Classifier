@@ -1,3 +1,5 @@
+https://github.com/ANUSHRUTHIKAE/SMS-Spam-Classifier/assets/81505926/6d6c3554-15eb-448d-a768-eeacb4eb834f
+
 To run the project:
 
 step 1: Download the project
@@ -15,5 +17,5 @@ nltk.download('stopwords')
 step4: Run application
 python application/app.py
 
-https://github.com/ANUSHRUTHIKAE/SMS-Spam-Classifier/assets/81505926/6d6c3554-15eb-448d-a768-eeacb4eb834f
+
 
